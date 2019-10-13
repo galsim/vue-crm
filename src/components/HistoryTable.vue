@@ -37,12 +37,7 @@
 
 <script>
 export default {
-    props: {
-        records: {
-            type: Object,
-            required: true
-        }
-    }
+    props: ['records']
 
 }
 </script>
