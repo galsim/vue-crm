@@ -1,0 +1,12 @@
+{
+  "ProfileTitle": "Профиль",
+  "Name": "Имя",
+  "EnterName": "Введите имя",
+  "Update": "Обновить",
+  "Exit": "Выйти",
+  "Menu_Bill" : "Счет",
+  "Menu_History" : "История",
+  "Menu_PLaning" : "Планирование",
+  "Menu_NewRecord" : "Новая запись",
+  "Menu_Categories" : "Категории"
+}
